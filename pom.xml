@@ -45,9 +45,6 @@
 		<url>http://repo1.maven.org/maven2</url>
 	    </pluginRepository>
 	</pluginRepositories>
-	  <configuration>
-                    <failOnMissingWebXml>false</failOnMissingWebXml> <!-- Don't fail if web.xml is missing -->
-                </configuration>
-
+	 
 	
 </project>
